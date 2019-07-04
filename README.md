@@ -1,3 +1,5 @@
+![screenshot](https://raw.githubusercontent.com/daviddadev/an-interactive-page-js/master/Screen%20Shot%202019-07-04%20at%2010.57.42%20AM.png)
+
 # Welcome to DavidDaDev GitHub Page
 
 This project is a simple interactive web app with HTML, JS, CSS.
